@@ -1,0 +1,14 @@
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\bin\Debug\net8.0\PokemonBattleSimulator.exe
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\bin\Debug\net8.0\PokemonBattleSimulator.deps.json
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\bin\Debug\net8.0\PokemonBattleSimulator.runtimeconfig.json
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\bin\Debug\net8.0\PokemonBattleSimulator.dll
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\bin\Debug\net8.0\PokemonBattleSimulator.pdb
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\obj\Debug\net8.0\PokemonBattleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\obj\Debug\net8.0\PokemonBattleSimulator.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\obj\Debug\net8.0\PokemonBattleSimulator.AssemblyInfo.cs
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\obj\Debug\net8.0\PokemonBattleSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\obj\Debug\net8.0\PokemonBattleSimulator.dll
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\obj\Debug\net8.0\refint\PokemonBattleSimulator.dll
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\obj\Debug\net8.0\PokemonBattleSimulator.pdb
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\obj\Debug\net8.0\PokemonBattleSimulator.genruntimeconfig.cache
+C:\Users\Eigenaar\source\repos\PokemonBattleSimulator\obj\Debug\net8.0\ref\PokemonBattleSimulator.dll
