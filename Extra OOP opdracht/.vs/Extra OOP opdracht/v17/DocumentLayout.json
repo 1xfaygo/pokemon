@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ysneo\\source\\repos\\Extra OOP opdracht\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57FCAE21-FCD1-430D-BC6D-5EAA79C2F84E}|Extra OOP opdracht\\Extra OOP opdracht.csproj|c:\\users\\ysneo\\source\\repos\\extra oop opdracht\\extra oop opdracht\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FCAE21-FCD1-430D-BC6D-5EAA79C2F84E}|Extra OOP opdracht\\Extra OOP opdracht.csproj|solutionrelative:extra oop opdracht\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FCAE21-FCD1-430D-BC6D-5EAA79C2F84E}|Extra OOP opdracht\\Extra OOP opdracht.csproj|c:\\users\\ysneo\\source\\repos\\extra oop opdracht\\extra oop opdracht\\defence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FCAE21-FCD1-430D-BC6D-5EAA79C2F84E}|Extra OOP opdracht\\Extra OOP opdracht.csproj|solutionrelative:extra oop opdracht\\defence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FCAE21-FCD1-430D-BC6D-5EAA79C2F84E}|Extra OOP opdracht\\Extra OOP opdracht.csproj|c:\\users\\ysneo\\source\\repos\\extra oop opdracht\\extra oop opdracht\\offence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FCAE21-FCD1-430D-BC6D-5EAA79C2F84E}|Extra OOP opdracht\\Extra OOP opdracht.csproj|solutionrelative:extra oop opdracht\\offence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FCAE21-FCD1-430D-BC6D-5EAA79C2F84E}|Extra OOP opdracht\\Extra OOP opdracht.csproj|c:\\users\\ysneo\\source\\repos\\extra oop opdracht\\extra oop opdracht\\quarterback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FCAE21-FCD1-430D-BC6D-5EAA79C2F84E}|Extra OOP opdracht\\Extra OOP opdracht.csproj|solutionrelative:extra oop opdracht\\quarterback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FCAE21-FCD1-430D-BC6D-5EAA79C2F84E}|Extra OOP opdracht\\Extra OOP opdracht.csproj|c:\\users\\ysneo\\source\\repos\\extra oop opdracht\\extra oop opdracht\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FCAE21-FCD1-430D-BC6D-5EAA79C2F84E}|Extra OOP opdracht\\Extra OOP opdracht.csproj|solutionrelative:extra oop opdracht\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ysneo\\source\\repos\\Extra OOP opdracht\\Extra OOP opdracht\\Program.cs",
+              "RelativeDocumentMoniker": "Extra OOP opdracht\\Program.cs",
+              "ToolTip": "C:\\Users\\ysneo\\source\\repos\\Extra OOP opdracht\\Extra OOP opdracht\\Program.cs*",
+              "RelativeToolTip": "Extra OOP opdracht\\Program.cs*",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwHgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:48:36.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Players.cs",
+              "DocumentMoniker": "C:\\Users\\ysneo\\source\\repos\\Extra OOP opdracht\\Extra OOP opdracht\\Players.cs",
+              "RelativeDocumentMoniker": "Extra OOP opdracht\\Players.cs",
+              "ToolTip": "C:\\Users\\ysneo\\source\\repos\\Extra OOP opdracht\\Extra OOP opdracht\\Players.cs",
+              "RelativeToolTip": "Extra OOP opdracht\\Players.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:50:26.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Defence.cs",
+              "DocumentMoniker": "C:\\Users\\ysneo\\source\\repos\\Extra OOP opdracht\\Extra OOP opdracht\\Defence.cs",
+              "RelativeDocumentMoniker": "Extra OOP opdracht\\Defence.cs",
+              "ToolTip": "C:\\Users\\ysneo\\source\\repos\\Extra OOP opdracht\\Extra OOP opdracht\\Defence.cs",
+              "RelativeToolTip": "Extra OOP opdracht\\Defence.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAzwAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:20:18.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quarterback.cs",
+              "DocumentMoniker": "C:\\Users\\ysneo\\source\\repos\\Extra OOP opdracht\\Extra OOP opdracht\\Quarterback.cs",
+              "RelativeDocumentMoniker": "Extra OOP opdracht\\Quarterback.cs",
+              "ToolTip": "C:\\Users\\ysneo\\source\\repos\\Extra OOP opdracht\\Extra OOP opdracht\\Quarterback.cs",
+              "RelativeToolTip": "Extra OOP opdracht\\Quarterback.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:04:40.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Offence.cs",
+              "DocumentMoniker": "C:\\Users\\ysneo\\source\\repos\\Extra OOP opdracht\\Extra OOP opdracht\\Offence.cs",
+              "RelativeDocumentMoniker": "Extra OOP opdracht\\Offence.cs",
+              "ToolTip": "C:\\Users\\ysneo\\source\\repos\\Extra OOP opdracht\\Extra OOP opdracht\\Offence.cs",
+              "RelativeToolTip": "Extra OOP opdracht\\Offence.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA3wDEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:50:56.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

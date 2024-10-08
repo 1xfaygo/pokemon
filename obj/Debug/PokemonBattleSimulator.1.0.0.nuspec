@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PokemonBattleSimulator</id>
+    <version>1.0.0</version>
+    <authors>PokemonBattleSimulator</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="fc7aff73c27ad0ad92d3c575dd7c2cbf2472bf7f" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ysneo\source\repos\1xfaygo\pokemon\bin\Debug\net8.0\PokemonBattleSimulator.runtimeconfig.json" target="lib\net8.0\PokemonBattleSimulator.runtimeconfig.json" />
+    <file src="C:\Users\ysneo\source\repos\1xfaygo\pokemon\bin\Debug\net8.0\PokemonBattleSimulator.dll" target="lib\net8.0\PokemonBattleSimulator.dll" />
+  </files>
+</package>

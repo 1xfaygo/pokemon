@@ -1,0 +1,14 @@
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\obj\Debug\net8.0\Extra OOP opdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\obj\Debug\net8.0\Extra OOP opdracht.AssemblyInfoInputs.cache
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\obj\Debug\net8.0\Extra OOP opdracht.AssemblyInfo.cs
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\obj\Debug\net8.0\Extra OOP opdracht.csproj.CoreCompileInputs.cache
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\bin\Debug\net8.0\Extra OOP opdracht.exe
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\bin\Debug\net8.0\Extra OOP opdracht.deps.json
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\bin\Debug\net8.0\Extra OOP opdracht.runtimeconfig.json
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\bin\Debug\net8.0\Extra OOP opdracht.dll
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\bin\Debug\net8.0\Extra OOP opdracht.pdb
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\obj\Debug\net8.0\Extra OOP opdracht.dll
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\obj\Debug\net8.0\refint\Extra OOP opdracht.dll
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\obj\Debug\net8.0\Extra OOP opdracht.pdb
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\obj\Debug\net8.0\Extra OOP opdracht.genruntimeconfig.cache
+C:\Users\ysneo\source\repos\Extra OOP opdracht\Extra OOP opdracht\obj\Debug\net8.0\ref\Extra OOP opdracht.dll
